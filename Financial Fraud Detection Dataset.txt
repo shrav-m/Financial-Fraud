@@ -1,0 +1,19 @@
+Financial Fraud Detection Dataset
+This dataset contains transactional data to support the development of machine learning models for identifying financial fraud. The data includes various transaction attributes that help in distinguishing fraudulent activities from legitimate ones.
+
+Dataset Overview
+Source: Kaggle - Financial Fraud Detection Dataset
+Author: Sriharsha Eedala
+Objective: Build predictive models to detect fraudulent transactions in financial datasets.
+Data Fields
+Transaction Details: Payment method, amount, and other attributes.
+Label: Indicates whether the transaction is fraudulent.
+Use Cases
+Ideal for classification tasks, data preprocessing, and exploratory data analysis (EDA).
+
+How to Use
+Data Preprocessing: Clean and transform data as required.
+Model Building: Use features to train classification models for fraud detection.
+Requirements
+Python
+Pandas, NumPy, Scikit-Learn, Matplotlib
